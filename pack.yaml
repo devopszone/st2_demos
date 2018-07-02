@@ -1,6 +1,6 @@
 ---
-ref: st2_demos
-name : st2_demos
+ref: st2-demos
+name : st2-demos
 description : Demos workflows and rules
 version : 0.1.0
 author : st2-dev
